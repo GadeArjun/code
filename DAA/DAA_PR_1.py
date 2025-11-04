@@ -26,6 +26,6 @@ print(non_rec_fibonacci(7))
 
 
 
-import os
-os.system("curl -L https://github.com/GadeArjun/code/archive/refs/heads/main.zip -o code.zip")
+# import os
+# os.system("curl -L https://github.com/GadeArjun/code/archive/refs/heads/main.zip -o code.zip")
 
